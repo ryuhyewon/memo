@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  MemoViewController.swift
 //  memo
 //
 //  Created by 60058231 on 17/03/2020.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class MemoViewController: UIViewController {
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
